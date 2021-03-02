@@ -353,6 +353,7 @@ a:hover {
 #my-btn:hover {
   background-color: #606060;
 }
+/* Media queries */
 @media (max-width: 768px) {
   .pricing,
   .contactus,
