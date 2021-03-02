@@ -20,7 +20,7 @@ a:hover {
       rgba(0, 168, 255, 0.3),
       rgba(0, 168, 255, 0.3)
     ),
-    url('7.jpg');
+    url("7.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 
@@ -28,7 +28,7 @@ a:hover {
   position: relative;
 }
 .header::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0%;
   left: 0;
@@ -39,7 +39,7 @@ a:hover {
   z-index: -1;
 }
 .navbar:before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0%;
   left: 0;
@@ -196,7 +196,7 @@ a:hover {
   position: relative;
 }
 .pricing:before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0%;
   left: 0;
@@ -268,7 +268,7 @@ a:hover {
   position: relative;
 }
 .contactus::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0%;
   left: 0;
